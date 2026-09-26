@@ -1,0 +1,2 @@
+# Yggdrasil
+Server configs
